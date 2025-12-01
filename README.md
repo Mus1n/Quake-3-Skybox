@@ -4,4 +4,7 @@ Its recommended to use atleast 4/8k images and output atleast as 1024x1024 walls
 
 I added example.png for test
 
+Video showcase:
+https://www.youtube.com/watch?v=ntsW4CaqSys
+
 Have Fun =)
